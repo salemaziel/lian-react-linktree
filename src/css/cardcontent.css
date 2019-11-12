@@ -1,0 +1,27 @@
+
+
+
+.card-bg {
+    position: relative;
+    padding: 3rem 3rem 4rem;
+    background-color:rgba(255,255,255,0.90);
+    border: 10px;
+    border-radius: 15px;
+    min-width: 320px;
+}
+
+.gallery2 {
+    position: relative;
+    padding: 3rem 1.5rem 4rem;
+    background-color:rgba(255,255,255,0.90);
+    border: 10px;
+    border-radius: 15px;
+}
+/**.card-body {
+    margin: 0;
+}**/
+
+.card-subtitle {
+    text-align: center;
+}
+

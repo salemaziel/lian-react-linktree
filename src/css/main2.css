@@ -1,0 +1,54 @@
+.Wrapper {
+    position: relative;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    padding-bottom: 40px;
+    display: grid;
+    background-size: cover;
+    place-items: center;
+    /**background-color: #ffffff;**/
+    /**background-image: linear-gradient(to right, #55338d, #773c98, #9846a2, #b751aa, #d65db1);**/
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(40,42,71,1) 33%, rgba(88,97,116,1) 66%, rgba(159,177,181,1) 100%);
+    background-image: url(../assets/images/sdcoast.jpg);
+    justify-content: center;
+
+
+}
+
+
+.card-bg {
+    position: relative;
+    padding: 3rem 3rem 4rem;
+    background-color: #FFF;
+    border: 5px;
+    border-radius: 15px;
+
+}
+
+.card-subtitle {
+    text-align: center;
+}
+
+.container {
+    display: block;
+    margin: auto;
+    /**background-image: linear-gradient(to right, #55338d, #773c98, #9846a2, #b751aa, #d65db1);**/
+    padding: 2rem;
+    border: 10px;
+    border-radius: 10px;
+    /**background-color: #FFF;**/
+
+}
+
+.span {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}

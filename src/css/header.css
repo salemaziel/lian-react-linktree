@@ -1,0 +1,18 @@
+
+.photo {
+    width: 10rem;
+    height: 10rem;
+    justify-self: center;
+    border-radius: 50%;
+}
+
+.userphoto {
+    display: grid;
+    justify-content: center;
+    margin-top: 2rem;
+    color: black;
+    font-size: .8em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+}
